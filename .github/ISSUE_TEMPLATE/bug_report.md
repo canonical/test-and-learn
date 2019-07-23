@@ -28,3 +28,11 @@ assignees: ''
 |**Current conversion rate**  | Conversion rate |
 |**Improvement**  | % expected improvement |
 |**Days**  | Duration in days |
+
+### Test results
+
+| | |
+| --- | --- |
+|**Data**  | Summary and link to Optimize report |
+|**Learnings**  | Insights from the test |
+|**Next steps**  | Follow up tests, hard code winner, etc |
